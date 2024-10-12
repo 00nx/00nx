@@ -6,7 +6,7 @@
 
 ```assembly
 section .data
-    message db 'on foenem', 0
+    message db 'spinnin back', 0
 
 section .text
     global _start
